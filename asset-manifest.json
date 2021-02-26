@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/promotion/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/promotion/static/js/main.4ffb88d4.chunk.js",
-    "main.js.map": "/promotion/static/js/main.4ffb88d4.chunk.js.map",
-    "runtime-main.js": "/promotion/static/js/runtime-main.5e88ae25.js",
-    "runtime-main.js.map": "/promotion/static/js/runtime-main.5e88ae25.js.map",
-    "static/js/2.631836c8.chunk.js": "/promotion/static/js/2.631836c8.chunk.js",
-    "static/js/2.631836c8.chunk.js.map": "/promotion/static/js/2.631836c8.chunk.js.map",
-    "static/js/3.42da56ed.chunk.js": "/promotion/static/js/3.42da56ed.chunk.js",
-    "static/js/3.42da56ed.chunk.js.map": "/promotion/static/js/3.42da56ed.chunk.js.map",
+    "main.css": "/promotion/static/css/main.ab099ea0.chunk.css",
+    "main.js": "/promotion/static/js/main.84e993c1.chunk.js",
+    "main.js.map": "/promotion/static/js/main.84e993c1.chunk.js.map",
+    "runtime-main.js": "/promotion/static/js/runtime-main.f27362dd.js",
+    "runtime-main.js.map": "/promotion/static/js/runtime-main.f27362dd.js.map",
+    "static/js/2.20251526.chunk.js": "/promotion/static/js/2.20251526.chunk.js",
+    "static/js/2.20251526.chunk.js.map": "/promotion/static/js/2.20251526.chunk.js.map",
+    "static/js/3.b9713726.chunk.js": "/promotion/static/js/3.b9713726.chunk.js",
+    "static/js/3.b9713726.chunk.js.map": "/promotion/static/js/3.b9713726.chunk.js.map",
     "index.html": "/promotion/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/promotion/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.631836c8.chunk.js.LICENSE.txt": "/promotion/static/js/2.631836c8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/promotion/static/media/logo.6ce24c58.svg"
+    "static/css/main.ab099ea0.chunk.css.map": "/promotion/static/css/main.ab099ea0.chunk.css.map",
+    "static/js/2.20251526.chunk.js.LICENSE.txt": "/promotion/static/js/2.20251526.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/promotion/static/media/AvenyT.a8052736.ttf",
+    "static/media/instagramSVG-gold.ae9086a3.svg": "/promotion/static/media/instagramSVG-gold.ae9086a3.svg",
+    "static/media/instagramSVG-mirror.5b1d897b.svg": "/promotion/static/media/instagramSVG-mirror.5b1d897b.svg",
+    "static/media/instagramSVG.3463b5ad.svg": "/promotion/static/media/instagramSVG.3463b5ad.svg",
+    "static/media/logo.6ce24c58.svg": "/promotion/static/media/logo.6ce24c58.svg",
+    "static/media/navedite.2d582842.svg": "/promotion/static/media/navedite.2d582842.svg",
+    "static/media/otskaniryimenya.de039957.svg": "/promotion/static/media/otskaniryimenya.de039957.svg",
+    "static/media/podpiska10.04dd1ee7.svg": "/promotion/static/media/podpiska10.04dd1ee7.svg",
+    "static/media/visitkaSVG-gold.b52980f6.svg": "/promotion/static/media/visitkaSVG-gold.b52980f6.svg",
+    "static/media/visitkaSVG-mirror.340b1a57.svg": "/promotion/static/media/visitkaSVG-mirror.340b1a57.svg",
+    "static/media/visitkaSVG.fc9b9595.svg": "/promotion/static/media/visitkaSVG.fc9b9595.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e88ae25.js",
-    "static/js/2.631836c8.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4ffb88d4.chunk.js"
+    "static/js/runtime-main.f27362dd.js",
+    "static/js/2.20251526.chunk.js",
+    "static/css/main.ab099ea0.chunk.css",
+    "static/js/main.84e993c1.chunk.js"
   ]
 }
